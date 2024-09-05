@@ -1,0 +1,6 @@
+*.tar
+*.tar.gz
+**/.bashrc
+**/.bash_profile
+**/.*rc
+**/.*profile

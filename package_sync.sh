@@ -1,0 +1,1 @@
+pacman -S `ls packages/`

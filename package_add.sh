@@ -1,0 +1,1 @@
+pacman -S $1 && echo "0" > packages/$1

@@ -1,0 +1,1 @@
+pacman -R $1 && rm packages/$1
